@@ -1,7 +1,7 @@
 ## 👋 Hello, I’m Yasin Asadi 
 
-🎓 AI Researcher | 📊 Data Scientist | 🖥️ Network & Systems Engineer  
-🔬 Peer Reviewer (Springer, Elsevier, IEEE, Wiley) | 💡 Ph.D. Applicant  
+🎓 AI Researcher | 📊 Data Scientist | 🖥️ Computer Network & Systems Engineer  
+🔬 Peer Reviewer (Springer, Elsevier, IEEE, ACM, Wiley) | 💡 Ph.D. Applicant  
 
 ---
 
@@ -29,7 +29,6 @@
 ### 📫 Contact
 - Email: yasinasadi@hotmail.com  
 - Google Scholar: [Yasin Asadi](https://scholar.google.com/citations?user=Vy2DXogAAAAJ&hl=en)  
-- LinkedIn: [linkedin.com/in/yasin-asadi](https://www.linkedin.com/in/yasin-asadi)
 
 ---
 
